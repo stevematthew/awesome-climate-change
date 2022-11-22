@@ -1,7 +1,9 @@
 # Awesome Climate Change
-A collection of awesome resources about climate change.
+A collection of awesome resources on climate change.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesome) out there.
 
 ---
 
@@ -19,26 +21,26 @@ A collection of awesome resources about climate change.
 - [Communities](#communities)
 
 ## Emissions
-- [Our World in Data](https://ourworldindata.org/co2-emissions)
-- [Climate Trace](https://climatetrace.org/)
-- [Global methane budget](https://www.globalcarbonproject.org/methanebudget/)
-- [UN Emissions Gap Report](https://www.unep.org/resources/emissions-gap-report-2022)
-- [Carbon Clock](https://lnkd.in/g6EGw6mr)
+- [Our World in Data](https://ourworldindata.org/co2-emissions) - Emissions for country and sector.
+- [Climate Trace](https://climatetrace.org/) - Interactive tools to explore and compare emissions across sectors and countries.
+- [UN Emissions Gap Report](https://www.unep.org/resources/emissions-gap-report-2022) - The gap between predicted emissions and where they need to be to meet 1.5ºC. Published yearly.
+- [Carbon Clock](https://lnkd.in/g6EGw6mr) - How much of our carbon budget is remaining?
 
 ## Net Zero
-- [Climate Action Tracker](https://climateactiontracker.org/)
-- [Zero Tracker](https://zerotracker.net/)
-- [Climate Action 100+](https://www.climateaction100.org/whos-involved/companies/)
+- [Climate Action Tracker](https://climateactiontracker.org/) -  Country Net-zero commitments rated against the Paris goals.
+- [Zero Tracker](https://zerotracker.net/) - Country, region and city targets and plans analysed and rated.
+- [Climate Action 100+](https://www.climateaction100.org/whos-involved/companies/) - Focus on the companies that are key to driving the global net zero emissions transition.
 
 ## CDR
-- [cdr.fyi](https://www.cdr.fyi/)
+- [cdr.fyi](https://www.cdr.fyi/) - Ccommunity driven effort to bring transparency and accountability to the carbon removal market.
+
 
 ## Impacts
-- [Relief Web](https://reliefweb.int/)
-- [Climate Impact Lab](https://impactlab.org)
+- [Relief Web](https://reliefweb.int/) - Humanitarian information service provided by the UN OCHA.
+- [Climate Impact Lab](https://impactlab.org) - Analysis of past impacts to make future projections.
 
 ## Adaptation
-- [UNEP Projects](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-adaptation/climate-adaptation-project-list)
+- [UNEP Projects](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-adaptation/climate-adaptation-project-list) - UNEP list of adaptation projects.
 
 ## Datasets
 - [Subak](https://data.subak.org/)
