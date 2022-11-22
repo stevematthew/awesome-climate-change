@@ -6,40 +6,78 @@ A collection of awesome resources about climate change.
 ---
 
 ## Topics
-- [GHG Emissions](#ghg-emissions)
-- [Climate Models](#climate-models)
-- [Tracking Progress to Net Zero](#tracking-progress-to-net-zero)
-- [Climate Change Impacts](#climate-change-impacts)
-- [Climate Change Adaptations](#climate-change-adaptations)
-- [Climate Datasets](#climate-datasets)
+- [Emissions](#emissions)
+- [Net Zero](#net-zero)
 - [CDR](#cdr)
+- [Impacts](#impacts)
+- [Adaptation](#adaptation)
+- [Datasets](#datasets)
+- [Communication](#communication)
+- [News](#news)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Communities](#communities)
 
-## GHG Emissions
-- [Emissions by Sector - Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#co2-and-greenhouse-gas-emissions-country-profiles)
-- [Emissions by Country - Our World in Data]()
-- [Climate Trace](https://climatetrace.org/) - tools to explore and compare across sectors and countries
-- [Global methane budget](https://www.carbonbrief.org/qa-how-do-climate-models-work/#what)
-
-## Climate Models
-- [Q&A: How do climate models work? - Carbon Brief](https://www.carbonbrief.org/qa-how-do-climate-models-work/#what)
-
-## Tracking Progress to Net Zero
-- [Climate Action Tracker](https://climateactiontracker.org/) - country Net-zero commitments rated against the Paris goals.
-- [Zero Tracker](https://zerotracker.net/) - country, region and city targets and plans analysed and rated.
-- [UN Emissions Gap Report](https://www.unep.org/resources/emissions-gap-report-2022) - the gap between predicted emissions and where they need to be to meet 1.5ºC 
+## Emissions
+- [Our World in Data](https://ourworldindata.org/co2-emissions)
+- [Climate Trace](https://climatetrace.org/)
+- [Global methane budget](https://www.globalcarbonproject.org/methanebudget/)
+- [UN Emissions Gap Report](https://www.unep.org/resources/emissions-gap-report-2022)
 - [Carbon Clock](https://lnkd.in/g6EGw6mr)
 
-
-## Climate Change Impacts
-- [Relief Web](https://reliefweb.int/)
-- [Climate Impact Lab](https://impactlab.org)
-
-## Climate Change Adaptations
-- [UNEP Projects](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-adaptation/climate-adaptation-project-list)
-
-
-## Climate Datasets
-- [Subak Data](https://data.subak.org/)
+## Net Zero
+- [Climate Action Tracker](https://climateactiontracker.org/)
+- [Zero Tracker](https://zerotracker.net/)
+- [Climate Action 100+](https://www.climateaction100.org/whos-involved/companies/)
 
 ## CDR
 - [cdr.fyi](https://www.cdr.fyi/)
+
+## Impacts
+- [Relief Web](https://reliefweb.int/)
+- [Climate Impact Lab](https://impactlab.org)
+
+## Adaptation
+- [UNEP Projects](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-adaptation/climate-adaptation-project-list)
+
+## Datasets
+- [Subak](https://data.subak.org/)
+- [CDP](https://data.cdp.net/browse)
+- [Open Climate Data](https://openclimatedata.net/)
+
+## Communication
+- [Yale Program on Climate Change Communication](https://climatecommunication.yale.edu)
+- [The Psychology of Climate Change Communication](http://guide.cred.columbia.edu/pdfs/CREDguide_full-res.pdf)
+
+## News
+- [Carbon Brief](https://www.carbonbrief.org/)
+- [Carbon Pulse](https://carbon-pulse.com/)
+- [The Guardian](https://www.theguardian.com/environment/climate-crisis)
+
+
+## Newsletters
+- [Bill Mckibben](https://billmckibben.substack.com/)
+- [Planet - The Atlantic](https://www.theatlantic.com/projects/planet/)
+- [Project Drawdown](https://drawdown.org/)
+- [CTCV](https://www.ctvc.co/tag/newsletter/)
+- [Politico Power Switch](https://www.politico.com/power-switch)
+
+## Podcasts
+- [Volts](https://www.volts.wtf/podcast)
+- [A Matter of Degrees](https://www.degreespod.com/)
+- [The Angry Clean Energy Guy](https://theangrycleanenergyguy.com/)
+- [Carbon Copy](https://www.canarymedia.com/podcasts/the-carbon-copy)
+- [The Climate Question](https://www.bbc.co.uk/programmes/w13xtvb6/episodes/downloads)
+- [Climate Tech with Kentaro](https://persefoni.com/podcast)
+- [Drilled](https://www.drilledpodcast.com/drilled-podcast/)
+- [Environment Variables](https://podcast.greensoftware.foundation/)
+- [Reversing Climate Change](https://nori.com/podcasts/reversing-climate-change)
+- [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann)
+- [Carbotnic](https://podcasts.apple.com/us/podcast/carbotnic/id1518148418)
+
+## Communities
+- [My Climate Journey](https://www.mcjcollective.com/)
+- [Work on Climate](http://workonclimate.org/)
+- [Climate Action Tech](https://climateaction.tech/)
+- [Climate Designers](https://www.climatedesigners.org/)
+- [Climate in Colour](https://climateincolour.com/)
