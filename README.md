@@ -59,6 +59,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Sifted](https://sifted.eu/sector/sustainability/) - The latest news and analysis on Europe’s sustainability startups, including electric vehicles, lab-grown food, clean energy, ESG and the latest sustainability investments.
 
 ## Research and Reports
+- [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/) - UN body publishing in-depth reports on scientific consensus concerning basis, impact en mitigation of the climate crisis.
 - [Trove Research](https://trove-research.com/) - a leading source of data and intelligence on corporate climate commitments and the voluntary carbon market.
 
 ## Newsletters
