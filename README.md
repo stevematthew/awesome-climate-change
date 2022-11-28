@@ -17,6 +17,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Communication](#communication)
 - [News](#news)
 - [Newsletters](#newsletters)
+- [Research and Reports](#research-and-reports)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 
@@ -57,6 +58,8 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [The Guardian](https://www.theguardian.com/environment/climate-crisis) - UK Newspaper with in-depth coverage of the Climate Crisis.
 - [Sifted](https://sifted.eu/sector/sustainability/) - The latest news and analysis on Europe’s sustainability startups, including electric vehicles, lab-grown food, clean energy, ESG and the latest sustainability investments.
 
+## Research and Reports
+- [Trove Research](https://trove-research.com/) - a leading source of data and intelligence on corporate climate commitments and the voluntary carbon market.
 
 ## Newsletters
 - [Bill Mckibben](https://billmckibben.substack.com/)
