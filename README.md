@@ -20,6 +20,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Research and Reports](#research-and-reports)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
+- [Refi](#refi)
 
 ## Emissions
 - [Our World in Data](https://ourworldindata.org/co2-emissions) - Emissions for country and sector.
@@ -88,3 +89,12 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Climate Action Tech](https://climateaction.tech/)
 - [Climate Designers](https://www.climatedesigners.org/)
 - [Climate in Colour](https://climateincolour.com/)
+
+## Refi
+- [Refi DAO](https://www.refidao.com/) - a founder-led startup community on a mission
+to accelerate impact for people and planet.
+- [Carbon Flippening](https://carbonflippening.substack.com/) - Newsletter tracking the progress of the 100 most promising Carbon/Web3 Projects on [kuoka.earth](https://kuoka.earth/).
+- [deCarbonized](https://blog.toucan.earth/tag/decarbonized/) - Weekly newsletter demystifying carbon markets in crypto and beyond with updates, insights and deep dives.
+
+
+
