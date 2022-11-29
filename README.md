@@ -82,6 +82,8 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Reversing Climate Change](https://nori.com/podcasts/reversing-climate-change) - Focused on people & organizations coming together to reverse climate change.
 - [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) - A weekly podcast with climatetech veteran Shayle Kann interviewing experts about the future of decarbonization.
 - [Carbotnic](https://podcasts.apple.com/us/podcast/carbotnic/id1518148418) - Deep discussions with cleantech founders and investors.
+- [Sustainability Defined](https://sustainabilitydefined.com/) - A monthly podcast that focuses on a single topic that pushes sustainability forward in each episode.
+- [Watt It Takes](https://podcasts.apple.com/us/podcast/watt-it-takes/id1554962073) - Stories of founders that are making our zero-carbon future a reality — their upbringings, their risks, their failures, and their breakthroughs that are transforming our world.
 
 ## Communities
 - [My Climate Journey](https://www.mcjcollective.com/)
