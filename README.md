@@ -82,6 +82,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Reversing Climate Change](https://nori.com/podcasts/reversing-climate-change) - Focused on people & organizations coming together to reverse climate change.
 - [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) - A weekly podcast with climatetech veteran Shayle Kann interviewing experts about the future of decarbonization.
 - [Carbotnic](https://podcasts.apple.com/us/podcast/carbotnic/id1518148418) - Deep discussions with cleantech founders and investors.
+- [My Climate Journey](https://www.mcjcollective.com/media/podcast) - Wide ranging topics and guests with a focus on always learning more.
 
 ## Communities
 - [My Climate Journey](https://www.mcjcollective.com/)
