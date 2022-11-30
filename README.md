@@ -84,6 +84,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Carbotnic](https://podcasts.apple.com/us/podcast/carbotnic/id1518148418) - Deep discussions with cleantech founders and investors.
 - [Sustainability Defined](https://sustainabilitydefined.com/) - A monthly podcast that focuses on a single topic that pushes sustainability forward in each episode.
 - [Watt It Takes](https://podcasts.apple.com/us/podcast/watt-it-takes/id1554962073) - Stories of founders that are making our zero-carbon future a reality — their upbringings, their risks, their failures, and their breakthroughs that are transforming our world.
+- [My Climate Journey](https://www.mcjcollective.com/media/podcast) - Wide ranging topics and guests with a focus on always learning more.
 
 ## Communities
 - [My Climate Journey](https://www.mcjcollective.com/)
@@ -91,6 +92,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Climate Action Tech](https://climateaction.tech/)
 - [Climate Designers](https://www.climatedesigners.org/)
 - [Climate in Colour](https://climateincolour.com/)
+- [Climate Change AI](https://www.climatechange.ai/) - A community for researchers using ML in working on climate change
 
 ## Refi
 - [Refi DAO](https://www.refidao.com/) - a founder-led startup community on a mission
