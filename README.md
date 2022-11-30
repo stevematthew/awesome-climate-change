@@ -90,6 +90,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Climate Action Tech](https://climateaction.tech/)
 - [Climate Designers](https://www.climatedesigners.org/)
 - [Climate in Colour](https://climateincolour.com/)
+- [Climate Change AI](https://www.climatechange.ai/) - A community for researchers using ML in working on climate change
 
 ## Refi
 - [Refi DAO](https://www.refidao.com/) - a founder-led startup community on a mission
