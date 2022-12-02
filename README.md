@@ -34,8 +34,8 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Climate Action 100+](https://www.climateaction100.org/whos-involved/companies/) - Focus on the companies that are key to driving the global net zero emissions transition.
 
 ## CDR
-- [cdr.fyi](https://www.cdr.fyi/) - Ccommunity driven effort to bring transparency and accountability to the carbon removal market.
-
+- [cdr.fyi](https://www.cdr.fyi/) - Community driven effort to bring transparency and accountability to the carbon removal market.
+- [Carbon removal knowledge gaps](https://frontiergaps.softr.app) - A database of knowledge gaps across the field of durable carbon removal.
 
 ## Impacts
 - [Relief Web](https://reliefweb.int/) - Humanitarian information service provided by the UN OCHA.
