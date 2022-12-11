@@ -107,7 +107,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Climate Change AI](https://www.climatechange.ai/) - A community for researchers using ML in working on climate change
 - [We Don't Have Time](https://app.wedonthavetime.org/) - The social media for climate solutions
 - [Climate Changermakers](https://www.climatechangemakers.org/) - A community that advocates for equitable, science-based climate policies and pro-climate-action leaders
-- [Net Impact](https://netimpact.org/)
+- [Net Impact](https://netimpact.org/) - Net Impact’s mission is to inspire and equip emerging leaders to build a more just and sustainable world.
 
 ## Refi
 - [Refi DAO](https://www.refidao.com/) - a founder-led startup community on a mission
