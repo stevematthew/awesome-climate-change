@@ -13,11 +13,13 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [CDR](#cdr)
 - [Impacts](#impacts)
 - [Adaptation](#adaptation)
+- [Solutions](#solutions)
 - [Datasets](#datasets)
 - [Communication](#communication)
 - [News](#news)
 - [Newsletters](#newsletters)
 - [Research and Reports](#research-and-reports)
+- [Learning](#learning)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [Refi](#refi)
@@ -44,6 +46,10 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 ## Adaptation
 - [UNEP Projects](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-adaptation/climate-adaptation-project-list) - UNEP list of adaptation projects.
 
+## Solutions
+- [Project Drawdown](https://drawdown.org) - the world's leading resource for climate solutions
+- [EN-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/) - free online simulator for testing and exploring cross-sector climate solutions
+
 ## Datasets
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
@@ -51,7 +57,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 
 ## Communication
 - [Yale Program on Climate Change Communication](https://climatecommunication.yale.edu) - Scientific research on public climate change knowledge, attitudes, policy preferences, and behavior, and the underlying psychological, cultural, and political factors that influence them.
-- [The Psychology of Climate Change Communication](http://guide.cred.columbia.edu/pdfs/CREDguide_full-res.pdf) - A Guide for Scientists, Journalists,Educators, Political Aides, and the Interested Public.
+- [The Psychology of Climate Change Communication](http://guide.cred.columbia.edu/pdfs/CREDguide_full-res.pdf) - A Guide for Scientists, Journalists, Educators, Political Aides, and the Interested Public.
 
 ## News
 - [Carbon Brief](https://www.carbonbrief.org/) - UK-based website covering the latest developments in climate science, climate policy and energy policy.
@@ -62,6 +68,11 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 ## Research and Reports
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/) - UN body publishing in-depth reports on scientific consensus concerning basis, impact en mitigation of the climate crisis.
 - [Trove Research](https://trove-research.com/) - a leading source of data and intelligence on corporate climate commitments and the voluntary carbon market.
+
+## Learning
+
+- [Climate Literacy](https://www.youtube.com/channel/UCMwTEoo9p2__bg9hXkbwGvw) - lecture videos from the UBC course "Climate Literacy: Navigating Climate Change Conversations", which tackles the scientific and socio-political dimensions of climate change
+- [Climate solutions 101 Course by Project Drawdown](https://drawdown.org/climate-solutions-101)
 
 ## Newsletters
 - [Bill Mckibben](https://billmckibben.substack.com/)
@@ -77,6 +88,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Carbon Copy](https://www.canarymedia.com/podcasts/the-carbon-copy) - A weekly news analysis podcast that explains the changing planet through the lens of current events.
 - [The Climate Question](https://www.bbc.co.uk/programmes/w13xtvb6/episodes/downloads) - Why we find it so hard to save our own planet, and how we might change that, from the BBC.
 - [Climate Tech with Kentaro](https://persefoni.com/podcast) - Features some of the brightest minds in sustainability, ESG, and climate technology.
+- [Degrees with Yesh Pavlik Slenk](https://www.edf.org/degrees-green-jobs-podcast) - "Real talk about planet-saving careers"
 - [Drilled](https://www.drilledpodcast.com/drilled-podcast/) - A true-crime, investigative podcast about climate change.
 - [Environment Variables](https://podcast.greensoftware.foundation/) - The latest news regarding how to reduce the emissions of software and how the industry is dealing with its own environmental impact.
 - [Reversing Climate Change](https://nori.com/podcasts/reversing-climate-change) - Focused on people & organizations coming together to reverse climate change.
@@ -93,6 +105,9 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Climate Designers](https://www.climatedesigners.org/)
 - [Climate in Colour](https://climateincolour.com/)
 - [Climate Change AI](https://www.climatechange.ai/) - A community for researchers using ML in working on climate change
+- [We Don't Have Time](https://app.wedonthavetime.org/) - The social media for climate solutions
+- [Climate Changermakers](https://www.climatechangemakers.org/) - A community that advocates for equitable, science-based climate policies and pro-climate-action leaders
+- [Net Impact](https://netimpact.org/)
 
 ## Refi
 - [Refi DAO](https://www.refidao.com/) - a founder-led startup community on a mission
