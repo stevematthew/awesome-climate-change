@@ -97,6 +97,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Sustainability Defined](https://sustainabilitydefined.com/) - A monthly podcast that focuses on a single topic that pushes sustainability forward in each episode.
 - [Watt It Takes](https://podcasts.apple.com/us/podcast/watt-it-takes/id1554962073) - Stories of founders that are making our zero-carbon future a reality — their upbringings, their risks, their failures, and their breakthroughs that are transforming our world.
 - [My Climate Journey](https://www.mcjcollective.com/media/podcast) - Wide ranging topics and guests with a focus on always learning more.
+- [Decouple podcast](https://podcasts.apple.com/us/podcast/decouple/id1516526694) - About technologies that decouple human well-being from its ecological impacts and politics that enable (or disable) these technologies.
 
 ## Communities
 - [My Climate Journey](https://www.mcjcollective.com/)
