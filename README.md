@@ -55,6 +55,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
+- [Climate Watch](https://www.climatewatchdata.org/) - Data, visualizations and resources to gather insights on national and global progress on climate change made available by the World Resources Institute.
 
 ## Communication
 - [Yale Program on Climate Change Communication](https://climatecommunication.yale.edu) - Scientific research on public climate change knowledge, attitudes, policy preferences, and behavior, and the underlying psychological, cultural, and political factors that influence them.
