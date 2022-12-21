@@ -62,6 +62,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Yale Program on Climate Change Communication](https://climatecommunication.yale.edu) - Scientific research on public climate change knowledge, attitudes, policy preferences, and behavior, and the underlying psychological, cultural, and political factors that influence them.
 - [The Psychology of Climate Change Communication](http://guide.cred.columbia.edu/pdfs/CREDguide_full-res.pdf) - A Guide for Scientists, Journalists, Educators, Political Aides, and the Interested Public.
 - [Skeptical Science](https://skepticalscience.com/) - Non-profit science education organization with the goal of raising public understanding of climate change. Specifically addresses common myths and talking points about climate change.
+- [Real Climate](https://www.realclimate.org/) - Climate science blog by real climate scientists.
 
 ## News
 - [Carbon Brief](https://www.carbonbrief.org/) - UK-based website covering the latest developments in climate science, climate policy and energy policy.
