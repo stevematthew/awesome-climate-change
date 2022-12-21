@@ -108,6 +108,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [My Climate Journey](https://www.mcjcollective.com/media/podcast) - Wide ranging topics and guests with a focus on always learning more.
 - [Decouple podcast](https://podcasts.apple.com/us/podcast/decouple/id1516526694) - About technologies that decouple human well-being from its ecological impacts and politics that enable (or disable) these technologies.
 - [IN This Climate](https://climatepodcast.indiana.edu/) - Weekly podcast about weather, wildlife, human resilience, and the ever-changing environment.
+- [ClimateOne](https://www.climateone.org/) - We’re living through a climate emergency; addressing this crisis begins by talking about it. Host Greg Dalton brings you empowering conversations that connect all aspects of the challenge — the scary and the exciting, the individual and the systemic. 
 
 ## Communities
 - [My Climate Journey](https://www.mcjcollective.com/)
