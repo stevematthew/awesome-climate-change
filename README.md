@@ -50,6 +50,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Project Drawdown](https://drawdown.org) - the world's leading resource for climate solutions
 - [EN-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/) - free online simulator for testing and exploring cross-sector climate solutions
 - [Systems Change Lab](https://systemschangelab.org/about) - Tracks global progress for more than 70 transformational shifts across nearly every system.
+- [Rewiring America](https://www.rewiringamerica.org/) - Rewiring America is an electrification nonprofit focused on electrifying everything in our communities.
 
 ## Datasets
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
@@ -60,21 +61,26 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 ## Communication
 - [Yale Program on Climate Change Communication](https://climatecommunication.yale.edu) - Scientific research on public climate change knowledge, attitudes, policy preferences, and behavior, and the underlying psychological, cultural, and political factors that influence them.
 - [The Psychology of Climate Change Communication](http://guide.cred.columbia.edu/pdfs/CREDguide_full-res.pdf) - A Guide for Scientists, Journalists, Educators, Political Aides, and the Interested Public.
+- [Skeptical Science](https://skepticalscience.com/) - Non-profit science education organization with the goal of raising public understanding of climate change. Specifically addresses common myths and talking points about climate change.
+- [Real Climate](https://www.realclimate.org/) - Climate science blog by real climate scientists.
 
 ## News
 - [Carbon Brief](https://www.carbonbrief.org/) - UK-based website covering the latest developments in climate science, climate policy and energy policy.
 - [Carbon Pulse](https://carbon-pulse.com/) - Subscription-based service providing unrivalled news and intelligence on carbon pricing and climate change policies.
 - [The Guardian](https://www.theguardian.com/environment/climate-crisis) - UK Newspaper with in-depth coverage of the Climate Crisis.
 - [Sifted](https://sifted.eu/sector/sustainability/) - The latest news and analysis on Europe’s sustainability startups, including electric vehicles, lab-grown food, clean energy, ESG and the latest sustainability investments.
+- [E&E News](https://www.eenews.net/) - In depth environment and energy news coverage
 
 ## Research and Reports
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/) - UN body publishing in-depth reports on scientific consensus concerning basis, impact en mitigation of the climate crisis.
 - [Trove Research](https://trove-research.com/) - a leading source of data and intelligence on corporate climate commitments and the voluntary carbon market.
+- [Fourth National Climate Assessment Volume II](https://nca2018.globalchange.gov/) - The National Climate Assessment (NCA) assesses the science of climate change and variability and its impacts across the United States, now and throughout this century.
 
 ## Learning
-
 - [Climate Literacy](https://www.youtube.com/channel/UCMwTEoo9p2__bg9hXkbwGvw) - lecture videos from the UBC course "Climate Literacy: Navigating Climate Change Conversations", which tackles the scientific and socio-political dimensions of climate change
 - [Climate solutions 101 Course by Project Drawdown](https://drawdown.org/climate-solutions-101)
+- (Denial 101x MOOC](https://www.edx.org/course/making-sense-of-climate-science-denial) - Making Sense of Climate Science Denial Edx free self paced massive open online course (MOOC) 
+- [Edx SDGAcademyX Courses](https://www.edx.org/school/sdgacademyx) - Free online courses from SDG Academy. Graduate-level courses on sustainable development for learners around the world.
 
 ## Newsletters
 - [Bill Mckibben](https://billmckibben.substack.com/)
@@ -82,6 +88,7 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Project Drawdown](https://drawdown.org/)
 - [CTCV](https://www.ctvc.co/tag/newsletter/)
 - [Politico Power Switch](https://www.politico.com/power-switch)
+- [Keep Cool](https://workweek.com/discover-newsletters/keep-cool/?utm_campaign=%5Bcampaign_name%5D&utm_medium=email&utm_source=Sailthru&utm_term=Keep%20Cool)
 
 ## Podcasts
 - [Volts](https://www.volts.wtf/podcast) - Conversations with politicians, analysts, innovators, and activists about the latest progress in the world's most important fight.
@@ -100,6 +107,8 @@ Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesom
 - [Watt It Takes](https://podcasts.apple.com/us/podcast/watt-it-takes/id1554962073) - Stories of founders that are making our zero-carbon future a reality — their upbringings, their risks, their failures, and their breakthroughs that are transforming our world.
 - [My Climate Journey](https://www.mcjcollective.com/media/podcast) - Wide ranging topics and guests with a focus on always learning more.
 - [Decouple podcast](https://podcasts.apple.com/us/podcast/decouple/id1516526694) - About technologies that decouple human well-being from its ecological impacts and politics that enable (or disable) these technologies.
+- [IN This Climate](https://climatepodcast.indiana.edu/) - Weekly podcast about weather, wildlife, human resilience, and the ever-changing environment.
+- [ClimateOne](https://www.climateone.org/) - We’re living through a climate emergency; addressing this crisis begins by talking about it. Host Greg Dalton brings you empowering conversations that connect all aspects of the challenge — the scary and the exciting, the individual and the systemic. 
 
 ## Communities
 - [My Climate Journey](https://www.mcjcollective.com/)
