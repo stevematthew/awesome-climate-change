@@ -5,6 +5,9 @@ A collection of awesome resources on climate change.
 
 Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesome) out there.
 
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ---
 
 ## Topics
