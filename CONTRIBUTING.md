@@ -1,5 +1,5 @@
 # Contribution Guidelines
-## Adding something to this awesome list
+## Adding a link to this awesome list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
@@ -12,6 +12,10 @@ You'll need a [GitHub account](https://github.com/join)
 5. When you've finished making the change, enter a note as to why you're proposed the changes, and then click on "Propose file change".
 
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)
+
+##  Updating the Sections
+
+The sections within which the links are organised are certainly not final and can be split, merged and added to as needed. If you have suggestions here please feel free to raise a PR.
 
 ## Updating your Pull Request
 
