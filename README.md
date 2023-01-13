@@ -92,18 +92,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Planet - The Atlantic](https://www.theatlantic.com/projects/planet/)
 - [Politico Power Switch](https://www.politico.com/power-switch)
 - [Project Drawdown](https://drawdown.org/)
+- [The Carbon Curve](https://carboncurve.substack.com/) - Strategies for scaling carbon removal.
 
 ## Podcasts
 - [A Matter of Degrees](https://www.degreespod.com/) - Dr. Leah Stokes and Dr. Katharine Wilkinson tell stories about the powerful forces behind climate change — and the tools we have to fix it.
+- [Bloomberg Zero](https://www.bloomberg.com/green-zero-emissions-podcast) - Zero is a podcast that explores the policies, tactics and clean technologies taking us to a future of zero emissions as the world fights climate change.
 - [Carbon Copy](https://www.canarymedia.com/podcasts/the-carbon-copy) - A weekly news analysis podcast that explains the changing planet through the lens of current events.
 - [Carbotnic](https://podcasts.apple.com/us/podcast/carbotnic/id1518148418) - Deep discussions with cleantech founders and investors.
 - [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) - A weekly podcast with climatetech veteran Shayle Kann interviewing experts about the future of decarbonization.
+- [Cleaning Up](https://www.cleaningup.live/) - Once a week Michael Liebreich has a conversation with a leader in clean energy, mobility, climate finance or sustainable development.
 - [ClimateOne](https://www.climateone.org/) - We’re living through a climate emergency; addressing this crisis begins by talking about it. Host Greg Dalton brings you empowering conversations that connect all aspects of the challenge — the scary and the exciting, the individual and the systemic. 
 - [Climate Tech with Kentaro](https://persefoni.com/podcast) - Features some of the brightest minds in sustainability, ESG, and climate technology.
 - [Decouple podcast](https://podcasts.apple.com/us/podcast/decouple/id1516526694) - About technologies that decouple human well-being from its ecological impacts and politics that enable (or disable) these technologies.
 - [Degrees with Yesh Pavlik Slenk](https://www.edf.org/degrees-green-jobs-podcast) - "Real talk about planet-saving careers"
 - [Drilled](https://www.drilledpodcast.com/drilled-podcast/) - A true-crime, investigative podcast about climate change.
 - [Environment Variables](https://podcast.greensoftware.foundation/) - The latest news regarding how to reduce the emissions of software and how the industry is dealing with its own environmental impact.
+- [How to Save a Planet](https://gimletmedia.com/shows/howtosaveaplanet) - Journalist Alex Blumberg and a crew of climate nerds bring you smart, inspiring stories about the mess we're in and how we can get ourselves out of it.
 - [IN This Climate](https://climatepodcast.indiana.edu/) - Weekly podcast about weather, wildlife, human resilience, and the ever-changing environment.
 - [My Climate Journey](https://www.mcjcollective.com/media/podcast) - Wide ranging topics and guests with a focus on always learning more.
 - [Reversing Climate Change](https://nori.com/podcasts/reversing-climate-change) - Focused on people & organizations coming together to reverse climate change.
