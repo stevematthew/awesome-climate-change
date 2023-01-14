@@ -11,21 +11,21 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ---
 
 ## Topics
-- [Emissions](#emissions)
-- [Net Zero](#net-zero)
-- [CDR](#cdr)
-- [Impacts](#impacts)
-- [Adaptation](#adaptation)
-- [Solutions](#solutions)
-- [Datasets](#datasets)
-- [Communication](#communication)
-- [News](#news)
-- [Newsletters](#newsletters)
-- [Research and Reports](#research-and-reports)
-- [Learning](#learning)
-- [Podcasts](#podcasts)
-- [Communities](#communities)
-- [Refi](#refi)
+- [Emissions](#emissions) - Data and analysis on global emissions.
+- [Net Zero](#net-zero) - Data and analysis on global net zero commitments.
+- [CDR](#cdr) - Sites and resources covering CO2 removal. 
+- [Impacts](#impacts) - How the planet, life and human society is being impacted by climate change.
+- [Adaptation](#adaptation) - Stories, projects and initiatives on climate change adaptation. 
+- [Solutions](#solutions) - Stories, projects and initiatives on climate change solutions.
+- [Datasets](#datasets) - Resources for climate change datasets.
+- [Communication](#communication) - Resources for climate change communication.
+- [News](#news) - Websites covering the latest news on climate change.
+- [Newsletters](#newsletters) - Newsletters on climate change to subscribe to.  
+- [Research and Reports](#research-and-reports) - In depth reports and research on climate change.
+- [Learning](#learning) - Workshops and online courses for understanding climate change.
+- [Podcasts](#podcasts) - Podcasts on climate change to subscribe to.
+- [Communities](#communities) - Online communities centered on climate change solutions, understanding and collaboration.
+- [Refi](#refi) - Resources on the Regenerative Finance movement.
 
 ## Emissions
 - [Our World in Data](https://ourworldindata.org/co2-emissions) - Emissions for country and sector.
