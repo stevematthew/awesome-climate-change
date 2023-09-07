@@ -33,6 +33,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Climate Trace](https://climatetrace.org/) - Interactive tools to explore and compare emissions across sectors and countries.
 - [UN Emissions Gap Report](https://www.unep.org/resources/emissions-gap-report-2022) - The gap between predicted emissions and where they need to be to meet 1.5ºC. Published yearly.
 - [Carbon Clock](https://lnkd.in/g6EGw6mr) - How much of our carbon budget is remaining?
+- [](https://climatechangetracker.org/livestream) - Live streaming dashboards aggregating GHG emissions
 
 ## Net Zero
 - [Climate Action Tracker](https://climateactiontracker.org/) -  Country Net-zero commitments rated against the Paris goals.
