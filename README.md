@@ -111,6 +111,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Environment Variables](https://podcast.greensoftware.foundation/) - The latest news regarding how to reduce the emissions of software and how the industry is dealing with its own environmental impact.
 - [How to Save a Planet](https://gimletmedia.com/shows/howtosaveaplanet) - Journalist Alex Blumberg and a crew of climate nerds bring you smart, inspiring stories about the mess we're in and how we can get ourselves out of it.
 - [IN This Climate](https://climatepodcast.indiana.edu/) - Weekly podcast about weather, wildlife, human resilience, and the ever-changing environment.
+- [Living Change](https://learnedon.com/podcast/) - Enthusiastic, hopeful, and fun stories of professionals using their work or business ventures to help shift the social norms around “leadership” in the Climate Crisis age.
 - [My Climate Journey](https://www.mcjcollective.com/media/podcast) - Wide ranging topics and guests with a focus on always learning more.
 - [Podcasts for Nature Lovers](https://open.spotify.com/playlist/1oNr5lPSZekPJP75QQqF3Q?si=62f0dfb1d979432e&nd=1) - Spotify playlist by Oliver Dauert of the best nature podcasts.
 - [Reversing Climate Change](https://nori.com/podcasts/reversing-climate-change) - Focused on people & organizations coming together to reverse climate change.
