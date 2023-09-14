@@ -120,6 +120,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [The Climate Question](https://www.bbc.co.uk/programmes/w13xtvb6/episodes/downloads) - Why we find it so hard to save our own planet, and how we might change that, from the BBC.
 - [Volts](https://www.volts.wtf/podcast) - Conversations with politicians, analysts, innovators, and activists about the latest progress in the world's most important fight.
 - [Watt It Takes](https://podcasts.apple.com/us/podcast/watt-it-takes/id1554962073) - Stories of founders that are making our zero-carbon future a reality, their upbringings, their risks, their failures, and their breakthroughs that are transforming our world.
+- [Climate Optimists](https://www.climateoptimists.co/episodes) - empowering concerned citizens to take action on impactful solutions.
 
 ## Communities
 - [Climate Action Tech](https://climateaction.tech/)
