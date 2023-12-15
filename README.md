@@ -60,6 +60,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Datasets
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
 - [Climate Watch](https://www.climatewatchdata.org/) - Data, visualizations and resources to gather insights on national and global progress on climate change made available by the World Resources Institute.
+- [DitchCarbon](https://docs.ditchcarbon.com/) - Largest data set on company and product disclosures
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
 
