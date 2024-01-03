@@ -105,6 +105,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) - A weekly podcast with climatetech veteran Shayle Kann interviewing experts about the future of decarbonization.
 - [Cleaning Up](https://www.cleaningup.live/) - Once a week Michael Liebreich has a conversation with a leader in clean energy, mobility, climate finance or sustainable development.
 - [ClimateOne](https://www.climateone.org/) - We’re living through a climate emergency; addressing this crisis begins by talking about it. Host Greg Dalton brings you empowering conversations that connect all aspects of the challenge — the scary and the exciting, the individual and the systemic. 
+- [Climate Optimists](https://www.climateoptimists.co/episodes) - empowering concerned citizens to take action on impactful solutions.
 - [Climate Tech with Kentaro](https://persefoni.com/podcast) - Features some of the brightest minds in sustainability, ESG, and climate technology.
 - [Decouple podcast](https://podcasts.apple.com/us/podcast/decouple/id1516526694) - About technologies that decouple human well-being from its ecological impacts and politics that enable (or disable) these technologies.
 - [Degrees with Yesh Pavlik Slenk](https://www.edf.org/degrees-green-jobs-podcast) - "Real talk about planet-saving careers"
