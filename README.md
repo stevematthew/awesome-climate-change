@@ -152,6 +152,7 @@ to accelerate impact for people and planet.
 - [Future List](https://futurelist.co/)
 - [Green Work](https://www.joingreenwork.com/)
 - [Impact Hustlers Jobs](https://impacthustlers.pallet.com/jobs)
+- [NextGen Energy Jobs](https://www.nextgenenergyjobs.com/)
 - [Tech Jobs For Good](https://www.techjobsforgood.com)
 - [Terra.do Jobs](https://terra.do/climate-jobs/)
 - [Women of Color Collective in Sustainability Jobs](https://jobboard.woccs.co/jobs)
