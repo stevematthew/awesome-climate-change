@@ -60,6 +60,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Project Drawdown](https://drawdown.org) - the world's leading resource for climate solutions
 - [Rewiring America](https://www.rewiringamerica.org/) - Rewiring America is an electrification nonprofit focused on electrifying everything in our communities.
 - [Systems Change Lab](https://systemschangelab.org/about) - Tracks global progress for more than 70 transformational shifts across nearly every system.
+- [Peak Shift](https://peakshift.org.uk/) - Free interactive map exploring how battery storage could reduce Great Britain's peak-hour imports and fossil-fuel generation.
 
 ## Datasets
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
