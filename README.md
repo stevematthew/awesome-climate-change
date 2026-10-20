@@ -66,6 +66,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Datasets
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
 - [Climate Watch](https://www.climatewatchdata.org/) - Data, visualizations and resources to gather insights on national and global progress on climate change made available by the World Resources Institute.
+- [DC Hub](https://dchub.cloud/) - Live data on the power and grid behind data centers: a daily score of where data centers can get grid power across 300+ markets, live feeds from the seven US grid operators, and electricity prices by state. Free tier with no key; AI agents can query it over MCP. I work on DC Hub.
 - [DitchCarbon](https://docs.ditchcarbon.com/) - Largest data set on company and product disclosures
 - [Keeling Curve explorer](https://artigram.cafeboon.com/p/xsnsnzr) - Interactive chart of NOAA's monthly CO2 record at Mauna Loa from 1958, with zoom, annual growth and the seasonal cycle. I built it.
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
