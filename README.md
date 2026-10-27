@@ -64,6 +64,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Peak Shift](https://peakshift.org.uk/) - Free interactive map exploring how battery storage could reduce Great Britain's peak-hour imports and fossil-fuel generation.
 
 ## Datasets
+- [Canadian home-energy rebate programs](https://rebatehub.ca/data) - Open CC BY 4.0 dataset of federal, provincial, utility and municipal home-energy rebates in Canada, verified against official sources.
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
 - [Climate Watch](https://www.climatewatchdata.org/) - Data, visualizations and resources to gather insights on national and global progress on climate change made available by the World Resources Institute.
 - [DitchCarbon](https://docs.ditchcarbon.com/) - Largest data set on company and product disclosures
