@@ -67,6 +67,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
 - [Climate Watch](https://www.climatewatchdata.org/) - Data, visualizations and resources to gather insights on national and global progress on climate change made available by the World Resources Institute.
 - [DitchCarbon](https://docs.ditchcarbon.com/) - Largest data set on company and product disclosures
+- [EU CBAM default values](https://cbam.vedacta.com/cbam-default-values) - The EU's default embedded emissions for every CBAM product code (steel, aluminium, cement, fertilisers, hydrogen) for 121 countries of production, from Implementing Regulation (EU) 2025/2621, with CSV and JSON downloads; data also on [GitHub](https://github.com/vedacta/cbam-default-values) under CC BY 4.0. I maintain it.
 - [Keeling Curve explorer](https://artigram.cafeboon.com/p/xsnsnzr) - Interactive chart of NOAA's monthly CO2 record at Mauna Loa from 1958, with zoom, annual growth and the seasonal cycle. I built it.
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
