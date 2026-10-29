@@ -69,6 +69,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [DitchCarbon](https://docs.ditchcarbon.com/) - Largest data set on company and product disclosures
 - [Keeling Curve explorer](https://artigram.cafeboon.com/p/xsnsnzr) - Interactive chart of NOAA's monthly CO2 record at Mauna Loa from 1958, with zoom, annual growth and the seasonal cycle. I built it.
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
+- [SOMA AI Emission Factors (SAEF)](https://doi.org/10.5281/zenodo.20443585) - Open carbon and water factors per million tokens for AI inference, by model class and cloud region, for company GHG inventories. CC BY 4.0.
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
 
 ## Communication
