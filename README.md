@@ -62,6 +62,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Rewiring America](https://www.rewiringamerica.org/) - Rewiring America is an electrification nonprofit focused on electrifying everything in our communities.
 - [Systems Change Lab](https://systemschangelab.org/about) - Tracks global progress for more than 70 transformational shifts across nearly every system.
 - [Peak Shift](https://peakshift.org.uk/) - Free interactive map exploring how battery storage could reduce Great Britain's peak-hour imports and fossil-fuel generation.
+- [SunEco BESS Sizing Engine](https://github.com/romangrid/suneco-bess-sizing) - Open-source industrial battery energy storage system (BESS) sizing engine and peak-shaving optimization simulator, developed with [SunEco](https://suneco.com.ua/).
+- [Solars Net Billing PV Calculator](https://github.com/romangrid/solars-net-billing-calculator) - Computational model for commercial rooftop solar PV generation and Net Billing ROI in Ukraine, developed with [Solars](https://solars.com.ua/).
 
 ## Datasets
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
