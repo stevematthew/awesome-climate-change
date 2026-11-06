@@ -67,6 +67,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
 - [Climate Watch](https://www.climatewatchdata.org/) - Data, visualizations and resources to gather insights on national and global progress on climate change made available by the World Resources Institute.
 - [DitchCarbon](https://docs.ditchcarbon.com/) - Largest data set on company and product disclosures
+- [Earth Stats](https://earthstats.in/) - Live estimates of CO₂, the 1.5 °C carbon budget, forests, energy and population on a 3D globe, plus yearly history from NOAA, the Global Carbon Budget, NSIDC and the World Bank. Free, with every figure linked to its source. I built it.
 - [Keeling Curve explorer](https://artigram.cafeboon.com/p/xsnsnzr) - Interactive chart of NOAA's monthly CO2 record at Mauna Loa from 1958, with zoom, annual growth and the seasonal cycle. I built it.
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
