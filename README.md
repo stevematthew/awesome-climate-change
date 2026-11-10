@@ -70,7 +70,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Keeling Curve explorer](https://artigram.cafeboon.com/p/xsnsnzr) - Interactive chart of NOAA's monthly CO2 record at Mauna Loa from 1958, with zoom, annual growth and the seasonal cycle. I built it.
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
 - [PastClimate](https://www.pastclimate.com/) - Month-by-month climate and weather history for tens of thousands of cities in 29 countries, from ERA5 reanalysis (Copernicus), with ready-made citations for each city. I built it.
-
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
 
 ## Communication
