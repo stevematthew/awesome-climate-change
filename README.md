@@ -1,4 +1,4 @@
-# Awesome Climate Change
+ # Awesome Climate Change
 A collection of awesome resources on climate change.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -69,6 +69,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [DitchCarbon](https://docs.ditchcarbon.com/) - Largest data set on company and product disclosures
 - [Keeling Curve explorer](https://artigram.cafeboon.com/p/xsnsnzr) - Interactive chart of NOAA's monthly CO2 record at Mauna Loa from 1958, with zoom, annual growth and the seasonal cycle. I built it.
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
+- [PastClimate](https://www.pastclimate.com/) - Month-by-month climate and weather history for tens of thousands of cities in 29 countries, from ERA5 reanalysis (Copernicus), with ready-made citations for each city. I built it.
+
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
 
 ## Communication
