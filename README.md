@@ -38,6 +38,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Corporate Emissions Accounting
 - [Scope 3 Challenge](https://github.com/co3org/Scope3-Challenge) - A structured knowledge base on how companies measure (and fail to measure) their value-chain emissions. Covers all 15 GHG Protocol Scope 3 categories, why spend-based methods can be off by 2–10x, industry case studies across automotive, apparel, finance and food sectors, and the regulatory deadlines companies face under CSRD, SEC, and ISSB S2. Includes real benchmarks from 1,391 company disclosures.
 - [Superhighway](https://superhighway.walls.sh/guides/esg-research-agent) - Python agent that researches company ESG profiles, sustainability disclosures, and regulatory requirements using live web search. Generates structured briefs with E/S/G pillar breakdowns, risk assessments, and regulatory exposure analysis (CSRD, SEC, TCFD, GRI, SASB). Pay-per-call, no signup.
+- [Fastener CBAM Desk](https://paopao-studio.pages.dev/cbam/) - Free bilingual (Chinese/English) calculator and guides that compare EU default-value vs actual-data CBAM certificate costs for Chinese iron and steel goods under CN 7318, 7326 and 7308, using Commission-published figures. By Paopao Studio; not an EU body or accredited verifier.
 
 ## Net Zero
 - [Climate Action Tracker](https://climateactiontracker.org/) -  Country Net-zero commitments rated against the Paris goals.
