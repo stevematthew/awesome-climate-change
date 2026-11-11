@@ -19,6 +19,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Datasets](#datasets) - Resources for climate change datasets.
 - [Emissions](#emissions) - Data and analysis on global emissions.
 - [Impacts](#impacts) - How the planet, life and human society is being impacted by climate change.
+- [Industrial Decarbonization](#industrial-decarbonization) - Pathways, trackers and roadmaps for heavy-industry decarbonization.
 - [Learning](#learning) - Workshops and online courses for understanding climate change.
 - [Net Zero](#net-zero) - Data and analysis on global net zero commitments.
 - [News](#news) - Websites covering the latest news on climate change.
@@ -31,7 +32,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Emissions
 - [Our World in Data](https://ourworldindata.org/co2-emissions) - Emissions for country and sector.
 - [Climate Trace](https://climatetrace.org/) - Interactive tools to explore and compare emissions across sectors and countries.
-- [UN Emissions Gap Report](https://www.unep.org/resources/emissions-gap-report-2022) - The gap between predicted emissions and where they need to be to meet 1.5ºC. Published yearly.
+- [UN Emissions Gap Report](https://www.unep.org/en/publications/report/emissions-gap-report-2025) - The gap between predicted emissions and where they need to be to meet 1.5ºC. Published yearly.
 - [Carbon Clock](https://lnkd.in/g6EGw6mr) - How much of our carbon budget is remaining?
 - [Climate Change Tracker](https://climatechangetracker.org/livestream) - Live streaming dashboards aggregating GHG emissions
 
@@ -43,6 +44,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Climate Action Tracker](https://climateactiontracker.org/) -  Country Net-zero commitments rated against the Paris goals.
 - [Zero Tracker](https://zerotracker.net/) - Country, region and city targets and plans analysed and rated.
 - [Climate Action 100+](https://www.climateaction100.org/whos-involved/companies/) - Focus on the companies that are key to driving the global net zero emissions transition.
+- [SBTi Target Dashboard](https://sciencebasedtargets.org/target-dashboard) - Companies and financial institutions with science-based targets, or a commitment to set them.
+
+## Industrial Decarbonization
+- [Green Steel Tracker](https://www.industrytransition.org/trackers/green-steel-tracker/) - LeadIT tracker of low-carbon steel projects, updated three times a year.
+- [Mission Possible Partnership](https://missionpossiblepartnership.org/) - Coalition working with business, governments and finance to accelerate clean industrial transformation.
+- [GCCA 2050 Cement and Concrete Industry Roadmap](https://gccassociation.org/concretefuture/) - The Global Cement and Concrete Association's pathway to net-zero concrete by 2050.
+- [IEA Net Zero Roadmap](https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-c-goal-in-reach) - The IEA's 2023 update of a global energy-sector pathway to net zero by 2050, consistent with the 1.5 °C goal.
+- [Global Iron and Steel Tracker](https://globalenergymonitor.org/projects/global-iron-steel-tracker) - Asset-level data on crude iron and steel plants worldwide, from Global Energy Monitor.
 
 ## CDR
 - [Carbon removal knowledge gaps](https://frontiergaps.softr.app) - A database of knowledge gaps across the field of durable carbon removal.
@@ -64,6 +73,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Peak Shift](https://peakshift.org.uk/) - Free interactive map exploring how battery storage could reduce Great Britain's peak-hour imports and fossil-fuel generation.
 
 ## Datasets
+- [Carbon3 Data Hub](https://carbon3.net/data) - Public datasets of company emissions disclosures, science-based targets and voluntary credit retirements, with a free read API.
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
 - [Climate Watch](https://www.climatewatchdata.org/) - Data, visualizations and resources to gather insights on national and global progress on climate change made available by the World Resources Institute.
 - [DitchCarbon](https://docs.ditchcarbon.com/) - Largest data set on company and product disclosures
