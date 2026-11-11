@@ -62,6 +62,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Rewiring America](https://www.rewiringamerica.org/) - Rewiring America is an electrification nonprofit focused on electrifying everything in our communities.
 - [Systems Change Lab](https://systemschangelab.org/about) - Tracks global progress for more than 70 transformational shifts across nearly every system.
 - [Peak Shift](https://peakshift.org.uk/) - Free interactive map exploring how battery storage could reduce Great Britain's peak-hour imports and fossil-fuel generation.
+- [Restoration Scope](https://restorationscope.com/) - Digital infrastructure for nature projects: field data, maps and reporting for reforestation and nature restoration teams.
+- [Nature Funding](https://naturefunding.org/) - Free, checked directory of grants and funding for nature restoration and conservation projects.
 
 ## Datasets
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
@@ -70,6 +72,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Keeling Curve explorer](https://artigram.cafeboon.com/p/xsnsnzr) - Interactive chart of NOAA's monthly CO2 record at Mauna Loa from 1958, with zoom, annual growth and the seasonal cycle. I built it.
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
+- [Tree Allometrics](https://treeallometry.org/) - Free database of tree allometric equations for biomass, height and root:shoot ratio, each linked to the source it quotes.
 
 ## Communication
 - [Real Climate](https://www.realclimate.org/) - Climate science blog by real climate scientists.
